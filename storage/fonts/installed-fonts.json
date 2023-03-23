@@ -1,0 +1,39 @@
+{
+    "open sans": {
+        "300_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_300_italic_af0715144c0c200a9c3cd7732b829537",
+        "italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_italic_e06e4ac228fd79b0b20f89dbb44804b7",
+        "600_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_600_italic_2e5a8594d8a1512dc57655d738725c1d",
+        "bold_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_bold_italic_65511fc8ddc09c8f95b7f4387b2be798",
+        "300": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_300_3991bff746d3377656ad3cf53b24fe9e",
+        "normal": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_normal_0c50822862df0e4bc3da7bec4af72b54",
+        "600": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/open_sans_600_75341019d0aad9d730980a0320d86ab8",
+        "bold": "open_sans_bold_16020d134f3ca847d8cdba64e3e9ca33"
+    },
+    "poppins": {
+        "300_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_300_italic_56b93a487d8c28777146ffd1eef895fd",
+        "italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_italic_46da975c18aa560b0bd3b88b138916e9",
+        "500_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_500_italic_c293cb67db049e112d06248502d9b24c",
+        "600_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_600_italic_5bc21aa56d8039e2f3d1b8f790f9558d",
+        "bold_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_bold_italic_1918f692c841b01acf827608eecc4cdd",
+        "300": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_300_999a4088f0da952988730996a4bec1d8",
+        "normal": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_normal_ee697d7869cb745ccf3ccccc013145ad",
+        "500": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_500_fce53b208cddccda1573b7620b579598",
+        "600": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/poppins_600_9623fbc18c38938c2057a9aae8390a42",
+        "bold": "poppins_bold_8fe618268f56b4b8f1e70e87a9e99fc0"
+    },
+    "raleway": {
+        "300_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_300_italic_263fd7e98cc2ef1f84d373151d9b9296",
+        "italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_italic_d8c738e3e98b2bc52b4ffd1f382456b3",
+        "500_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_500_italic_cfdda1fb0cc134f1a88fa54cf2f91793",
+        "600_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_600_italic_40ae3bd32eec4a1cd1b925034dba5c4a",
+        "bold_italic": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_bold_italic_0ac0196d901fa5c5c781defdb46c620f",
+        "300": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_300_03f1220312a8a49d56752227abd09b6c",
+        "normal": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_normal_3fc5eee72db562370e3a32337da4d6f1",
+        "500": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_500_b8a76f5d29584d4e90f55feea0349c86",
+        "600": "\/Users\/haleem\/Documents\/ResumeBuilder\/storage\/fonts\/raleway_600_680162e22c2503082b6c31a243da744a",
+        "bold": "raleway_bold_e878667000f96d9e51dcca4bb7e59ed4"
+    },
+    "boxicons": {
+        "normal": "boxicons_normal_0fe8a086a7cc6ff6008393c2cd7b17f1"
+    }
+}
