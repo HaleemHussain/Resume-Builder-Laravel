@@ -9,7 +9,7 @@ To set up this project:
 
 1. Clone this repository with `git clone https://github.com/HaleemHussain/Resume-Builder-Laravel.git`.
 2. Cd into this directory.
-3. create a .env file and add a database connection.
+3. Create a .env file and add a database connection.
 4. Run `composer install` and `npm install` to install the application dependencies.
 5. Run `php artisan key:generate` to generate an application key.
 6. Run `php artisan migrate` to create all the tables in the database.
