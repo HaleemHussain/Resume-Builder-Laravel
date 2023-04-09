@@ -17,7 +17,7 @@
                 <h3>Make a resume that wins interviews</h3>
                 {{ __('Use our resume maker with its advanced creation tools to tell a professional story that engages recruiters, hiring managers and even CEOs.') }}
                 <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-                    <a href="/user-detail" class="btn btn-primary btn-lg px-4 me-sm-3">Get Started</a>
+                    <a href="{{ route('user-detail.create') }}" class="btn btn-primary btn-lg px-4 me-sm-3">Get Started</a>
                 </div>
             </div>
         </div>
